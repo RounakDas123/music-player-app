@@ -24,7 +24,7 @@ const songs = [
     artist: "Post Malone",
   },
   {
-    name: "song-3",
+    name: "song-4",
     title: "COUNTING STARS",
     artist: "One Republic",
   },
