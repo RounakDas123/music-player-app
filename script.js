@@ -23,11 +23,7 @@ const songs = [
     title: "SUNFLOWER",
     artist: "Post Malone",
   },
-  {
-    name: "song-4",
-    title: "COUNTING STARS",
-    artist: "One Republic",
-  },
+  
 ];
 
 let isPlaying = false;
