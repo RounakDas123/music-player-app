@@ -15,13 +15,18 @@ const songs = [
   },
   {
     name: "song-2",
-    title: "DUSK TILL DAWN",
-    artist: "Zayn Malik",
+    title: "LEVITATING",
+    artist: "Dua Lipa",
   },
   {
     name: "song-3",
-    title: "LET ME DOWN...",
-    artist: "Alec Benjamin",
+    title: "SUNFLOWER",
+    artist: "Post Malone",
+  },
+  {
+    name: "song-3",
+    title: "COUNTING STARS",
+    artist: "One Republic",
   },
 ];
 
